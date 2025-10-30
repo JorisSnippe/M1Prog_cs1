@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\bin\Debug\net9.0\basicloop.exe
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\bin\Debug\net9.0\basicloop.deps.json
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\bin\Debug\net9.0\basicloop.runtimeconfig.json
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\bin\Debug\net9.0\basicloop.dll
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\bin\Debug\net9.0\basicloop.pdb
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.sourcelink.json
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.dll
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\refint\basicloop.dll
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.pdb
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\basicloop.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SCHOOL\Visual Studio code projecten school\M1Prog_cs1\06_loops\basicloop\obj\Debug\net9.0\ref\basicloop.dll

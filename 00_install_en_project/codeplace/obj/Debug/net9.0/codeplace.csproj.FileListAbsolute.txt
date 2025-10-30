@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\bin\Debug\net9.0\codeplace.exe
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\bin\Debug\net9.0\codeplace.deps.json
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\bin\Debug\net9.0\codeplace.runtimeconfig.json
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\bin\Debug\net9.0\codeplace.dll
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\bin\Debug\net9.0\codeplace.pdb
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.dll
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\refint\codeplace.dll
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.pdb
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\codeplace.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\00_install_en_project\codeplace\obj\Debug\net9.0\ref\codeplace.dll

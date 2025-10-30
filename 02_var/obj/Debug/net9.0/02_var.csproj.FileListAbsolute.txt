@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\bin\Debug\net9.0\02_var.exe
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\bin\Debug\net9.0\02_var.deps.json
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\bin\Debug\net9.0\02_var.runtimeconfig.json
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\bin\Debug\net9.0\02_var.dll
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\bin\Debug\net9.0\02_var.pdb
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.dll
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\refint\02_var.dll
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.pdb
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\02_var.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Visual Studio code projecten school\M1Prog_cs1\02_var\obj\Debug\net9.0\ref\02_var.dll
